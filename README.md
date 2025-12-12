@@ -1,10 +1,15 @@
-<h2 align="left">Hi 👋! My name is Arafat Shuvo and I'm a Software Engineer from Bangladesh 🇧🇩</h2>
+<h2 align="left">Hi 👋! My name is Arafat Shuvo and I'm a Software Engineer</h2>
 
 ###
 
 ###
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<!-- <img align="right" height="150" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" /> -->
+<!-- <img align="right" height="150" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" /> -->
+<!-- <img align="right" height="150" src="https://raw.githubusercontent.com/rajprasad10/rajprasad10/main/code.gif" /> -->
+<img align="right" height="150" src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/gifs/coder.gif" />
+
+
 
 ###
 
@@ -14,7 +19,6 @@
 - 🎯 Goal: Become a **Backend Engineer** and master **System Design**  
 - 🧱 Love building full-stack systems with **clean architecture**  
 - 🎨 Also a **UI/UX Designer** with experience in Figma  
-- 🚀 Working on selling my first product on **CodeCanyon**
 
 ###
 
@@ -59,6 +63,17 @@
 
 ###
 
+### 🧰 Toolbox Summary
+
+- 🏗 **Backend:** ASP.NET Core, Node.js (learning), REST APIs  
+- 🌐 **Frontend:** Angular, TypeScript, Tailwind, PrimeNG  
+- 🗄 **Databases:** MS SQL Server, MySQL, PostgreSQL  
+- 📱 **Mobile:** Flutter  
+- 🎨 **Design:** Figma, UX Flow, Wireframing  
+- ⚙️ **Architecture:** Clean Architecture, Repository Pattern  
+- 🛠 **Other Skills:** Git, Docker (basic), JWT Auth, Stored Procedures  
+###
+
 ### 🏆 My Current Projects
 - 🔹 **HRMS (ASP.NET Core + Angular)** – full HR solution with custom roles  
 - 🔹 **Training Management System** – Timeline, CRUD, advanced filters  
@@ -66,6 +81,29 @@
 - 🔹 **Node.js Backend Practice** – APIs, auth, clean folder structure  
 
 ###
+## 🕰️ Developer Timeline
+
+### 🚀 2021 – Started My Tech Journey
+- Learned fundamentals of HTML, CSS, JavaScript  
+- Built small UI projects and practiced designing in Figma  
+
+### 💼 2022 – Entered Professional Development
+- Started learning ASP.NET Core & Angular  
+- Created CRUD applications & learned SQL basics  
+
+### 🧱 2023 – Full-Stack Foundation
+- Built multiple full-stack apps with ASP.NET + Angular  
+- Learned authentication, authorization, and clean architecture  
+
+### 🧑‍💻 2024 – Becoming a Strong Backend Engineer
+- Worked on HRMS, Training System, internal company tools  
+- Improved skills in Stored Procedures, Identity, and API design  
+- Started learning Flutter for mobile development  
+
+### 🎯 2025 – Growing as a Backend + Cloud Developer
+
+
+
 
 ### 🌐 Connect With Me
 <div align="left">
@@ -87,11 +125,5 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<p align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
 
 ###
